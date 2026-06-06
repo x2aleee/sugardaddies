@@ -230,7 +230,7 @@ function Nav() {
           ))}
         </div>
         <a
-          href="https://www.instagram.com/sugardaddies_civitanova/"
+          href="https://www.instagram.com/sugar_daddies_civitanova/"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center gap-2 px-5 py-2.5 rounded-full text-sm font-medium transition-all duration-400 hover:scale-105 hover:shadow-lg"
@@ -768,7 +768,7 @@ function InfoSection() {
                 <>
                   <a href="tel:+393425026728" className="hover:underline underline-offset-2">342 502 6728</a>
                   <br />
-                  <a href="https://www.instagram.com/sugardaddies_civitanova/" target="_blank" rel="noopener noreferrer" className="hover:underline underline-offset-2">@sugardaddies</a>
+                  <a href="https://www.instagram.com/sugar_daddies_civitanova/" target="_blank" rel="noopener noreferrer" className="hover:underline underline-offset-2">@sugardaddies</a>
                 </>
               }
             />
@@ -849,7 +849,7 @@ function Footer() {
           </div>
           <div className="flex items-center gap-5">
             {[
-              { href: "https://www.instagram.com/sugardaddies_civitanova/", icon: <Instagram size={20} />, label: "Instagram" },
+              { href: "https://www.instagram.com/sugar_daddies_civitanova/", icon: <Instagram size={20} />, label: "Instagram" },
               { href: "tel:+393425026728", icon: <Phone size={20} />, label: "Telefono" },
               { href: "https://www.google.com/maps/place/Sugar+Daddies+-+Caffetteria+Pasticceria/", icon: <MapPin size={20} />, label: "Google Maps" },
             ].map((item) => (
