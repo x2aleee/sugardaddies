@@ -749,7 +749,7 @@ function InfoSection() {
               icon={<MapPin size={22} style={{ color: "#3f6572" }} />}
               title="Indirizzo"
               content={<>Viale Vittorio Veneto, 75/A<br />62012 Civitanova Marche (MC)</>}
-              link="https://www.google.com/maps/place/Sugar+Daddies+-+Caffetteria+Pasticceria/"
+              link="https://maps.app.goo.gl/idETiacGqaM68Zfd9"
               linkText="Apri in Maps"
             />
 
@@ -851,7 +851,7 @@ function Footer() {
             {[
               { href: "https://www.instagram.com/sugar_daddies_civitanova/", icon: <Instagram size={20} />, label: "Instagram" },
               { href: "tel:+393425026728", icon: <Phone size={20} />, label: "Telefono" },
-              { href: "https://www.google.com/maps/place/Sugar+Daddies+-+Caffetteria+Pasticceria/", icon: <MapPin size={20} />, label: "Google Maps" },
+              { href: "https://maps.app.goo.gl/idETiacGqaM68Zfd9", icon: <MapPin size={20} />, label: "Google Maps" },
             ].map((item) => (
               <a
                 key={item.label}
