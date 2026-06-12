@@ -182,7 +182,7 @@
   /* Scrolling reviews band */
   .reviews-track {
     display: flex;
-    animation: scroll-reviews 20s linear infinite;
+    animation: scroll-reviews 10s linear infinite;
   }
 
   .reviews-track:hover {
